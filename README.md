@@ -40,16 +40,21 @@ Powered by **TypeScript** to prevent runtime bugs and enhance scalability.
 
 
 Step 1 : Clone the repository
-git clone https://github.com/DevArora007/AuctionHub.git
+
+  git clone https://github.com/DevArora007/AuctionHub.git
 
 Step 2 : Navigate into the project
-cd project
+
+  cd project
 
 Step 3 : Install dependencies
-npm install
+
+  npm install
 
 Step 4 : Start the development server
-npm run dev
+
+  npm run dev
+
 
 
 📄 License
